@@ -58,8 +58,7 @@ implementation "androidx.navigation:navigation-ui-ktx:2.5.3"
 </table> 
   
 ## Sample Video
-https://github.com/Jdbarad/MindMyScape/blob/master/VID-20230709-WA0008.mp4
-
+https://github.com/Jdbarad/MindMyScape/assets/93068379/906c8804-a7cd-4f41-ad55-9fe530896c43
 
 
 ## App Link
